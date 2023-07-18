@@ -1,0 +1,15 @@
+/* .range1{
+    width: 600px !important;
+   
+} */
+
+
+input[type=range].range-slider{
+    color: red !important;
+}
+button{
+    border:none;
+    font-weight:500 !important;
+    background-color:skyblue;
+    
+}
