@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/emi_cal/static/css/main.010d953d.css",
-    "main.js": "/emi_cal/static/js/main.1733d820.js",
-    "static/js/787.02174dfd.chunk.js": "/emi_cal/static/js/787.02174dfd.chunk.js",
-    "static/media/logo.svg": "/emi_cal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/emi_cal/index.html",
-    "main.010d953d.css.map": "/emi_cal/static/css/main.010d953d.css.map",
-    "main.1733d820.js.map": "/emi_cal/static/js/main.1733d820.js.map",
-    "787.02174dfd.chunk.js.map": "/emi_cal/static/js/787.02174dfd.chunk.js.map"
+    "main.css": "/EMI_Cal/static/css/main.010d953d.css",
+    "main.js": "/EMI_Cal/static/js/main.04190d91.js",
+    "static/js/787.02174dfd.chunk.js": "/EMI_Cal/static/js/787.02174dfd.chunk.js",
+    "static/media/logo.svg": "/EMI_Cal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/EMI_Cal/index.html",
+    "main.010d953d.css.map": "/EMI_Cal/static/css/main.010d953d.css.map",
+    "main.04190d91.js.map": "/EMI_Cal/static/js/main.04190d91.js.map",
+    "787.02174dfd.chunk.js.map": "/EMI_Cal/static/js/787.02174dfd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.010d953d.css",
-    "static/js/main.1733d820.js"
+    "static/js/main.04190d91.js"
   ]
 }
